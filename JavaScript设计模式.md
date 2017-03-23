@@ -1,1 +1,0 @@
-JavaScript设计模式.md
