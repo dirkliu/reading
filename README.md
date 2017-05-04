@@ -3,3 +3,7 @@
  * [JavaScript设计模式](JavaScript设计模式/README.md)
  * [HTTP权威指南](HTTP权威指南/README.md)
  * [WebGL高级编程](WebGL高级编程/README.md)
+ * [语义web技术基础](语义Web技术基础/README.md)
+
+## 综合性图书
+ * [图解世界哲学简史](图解世界哲学简史/README.md)
