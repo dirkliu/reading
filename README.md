@@ -5,6 +5,7 @@
  * [WebGL高级编程](WebGL高级编程/README.md)
  * [语义web技术基础](语义Web技术基础/README.md)
  * [计算机操作系统](计算机操作系统/README.md)
+ * [WebKit技术内幕](WebKit技术内幕/README.md)
 
 ## 综合性图书
  * [图解世界哲学简史](图解世界哲学简史/README.md)
