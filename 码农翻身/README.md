@@ -18,3 +18,5 @@ rabbitMq， 消息队列
 * JAVA注解 
 XML与注解各自的优劣 
 * 泛型
+* JAVA日志系统 
+log4j， 正交性 
