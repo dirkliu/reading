@@ -7,10 +7,10 @@ string, list, hash, set, zset
 * 分布式锁　　　
 超时问题，可重入性　　
 * 延时队列　　
-锁冲突处理：１．直接抛出异常；２．sleep；３．延时队列
+锁冲突处理：1．直接抛出异常；2．sleep；3．延时队列
 * 位图　　
 位图的基本用法　　
-* HyperLogLog  
+* HyperLogLog 
 
 ### 原理
 
