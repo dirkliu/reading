@@ -31,7 +31,18 @@ resp协议： Redis Serialization Protocol
 快照原理  
 多进程  
 AOF原理  
-fsyn
+fsyn  
+混合持久化  
+* 管道 
+write --> write --> read --> read  
+* 事务  
+* 消息--PubSub  
+消息多播，发布者/订阅者模式  
+* 小对象压缩  
+32bit VS 64bit, ziplist  
+内存会收机制  
+内存分配算法  
+
 
 ### 集群
 
