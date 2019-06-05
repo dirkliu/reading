@@ -45,8 +45,19 @@ write --> write --> read --> read
 
 
 ### 集群
+* 主从同步  
+CAP原理：当网络分区发生时，一致性和可用性两难全。  
+最终一致性  
+增量同步  
+快照同步  
+* Sentinel  
+* 分而治之 - Codis  
+* Cluster  
+去中心化的redis集群  
 
 ### 拓展　
+* Stream  
+
 
 ### 源码　
 
