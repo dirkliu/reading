@@ -10,7 +10,8 @@
  * [编程语言：原理与范型](编程语言：原理与范型/README.md)
  * [码农翻身](码农翻身/README.md)
  * [Redis深度历险](Redis深度历险/README.md)  
- * [TCP/IP详解](TCP-IP详解/README.md)
+ * [TCP/IP详解](TCP-IP详解/README.md) 
+ * [go语言圣经](go语言圣经/README.md)
 
 ## 综合性图书
  * [图解世界哲学简史](图解世界哲学简史/README.md)
