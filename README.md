@@ -12,7 +12,8 @@
  * [Redis深度历险](Redis深度历险/README.md)  
  * [TCP/IP详解](TCP-IP详解/README.md) 
  * [go语言圣经](go语言圣经/README.md)  
- * [未来架构](未来架构/README.md)
+ * [未来架构](未来架构/README.md)  
+ * [云计算与分布式系统](云计算与分布式系统/README.md)
 
 ## 综合性图书
  * [图解世界哲学简史](图解世界哲学简史/README.md)
